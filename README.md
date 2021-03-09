@@ -1,3 +1,5 @@
+![YouTrack with DockerCompose](logo.jpg)
+
 # Youtrack
 
 YouTrack is a project management tool from a company called JetBrains which make IDEs like PHPStorm, PyCharm, GoLand, etc. It offers nice features like issues tracking, sprint plan, workflow, and many more.
