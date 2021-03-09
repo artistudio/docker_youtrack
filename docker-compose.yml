@@ -1,0 +1,15 @@
+version: "3"
+services:
+
+  # YouTrack 
+  YouTrack:
+    image: jetbrains/youtrack:2020.6.3319
+    container_name: youtrack
+    restart: always
+    volumes:
+      - ./data:/opt/youtrack/data
+      - ./conf:/opt/youtrack/conf
+      - ./logs:/opt/youtrack/logs
+      - ./backups:/opt/youtrack/backups
+    ports:
+      - 8080:8080
