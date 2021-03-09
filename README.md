@@ -15,3 +15,4 @@ YouTrack is a project management tool from a company called JetBrains which make
 ## References:
 * [Jetbrains Youtrack](https://www.jetbrains.com/youtrack/)
 * [Youtrack](https://wiki.artistudio.xyz/docs/tools/project-management/youtrack/)
+* [How to install YouTrack with docker-compose](https://wiki.artistudio.xyz/how-to-install-youtrack-with-docker-compose/)
